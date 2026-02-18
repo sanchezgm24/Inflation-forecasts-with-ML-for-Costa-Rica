@@ -1,1 +1,3 @@
 # Inflation-forecasts-with-ML-for-Costa-Rica
+
+This paper evaluates the performance of machine learning (ML) methods for forecasting year-over-year inflation in Costa Rica using monthly data from 2012-2025 and compare them against standard benchmarks within a rolling out-of-sample framework. ML techniques are particularly useful to capture nonlinearities and complex interactions between inflation and a broad set of macroeconomic covariates. The results show nonlinear ensemble methods such as XGBoost and BART presents the strongest gains at short horizons, while linear shrinkage methods are more competitive at longer horizons. 
